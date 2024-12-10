@@ -19,7 +19,7 @@ As automações seguintes seguirão a mesma base de versionamento de entregas a 
 
 ## Entregas Propostas
 
-Stakeholders: Escritório de advocacia, cliente final, cartórios, órgãos públicos e partes terceiras envolvidas.
+Stakeholders: Escritório de Advocacia, Cliente Comprador, Cliente Vendedor, [Cartórios](https://www.registrodeimoveis.org.br/cartorios), Órgãos Públicos e demais partes terceiras envolvidas.
 
 - v1. Automação (APIs): Construção e fluidez da automação do processo, minimizando a interação dos clientes e do escritório ao máximo.
 
