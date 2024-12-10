@@ -1,4 +1,4 @@
-#Automação de processo advocatício de compra/venda de imóveis
+# Automação de processo advocatício de compra/venda de imóveis
 
 ## Visão Geral
 
@@ -17,15 +17,21 @@ Dessa forma é possível alavancar resultados internos enquanto se testa um pote
 
 As automações seguintes seguirão a mesma base de versionamento de entregas a seguir, em que idealmente as etapas anteriores seguem sendo testadas em ambiente controlado até a integração de versões e entrega final.
 
-## Resultados Esperados
+## Entregas Propostas
 
 Stakeholders: Escritório de advocacia, cliente final, cartórios, órgãos públicos e partes terceiras envolvidas.
 
 - v1. Automação (APIs): Construção e fluidez da automação do processo, minimizando a interação dos clientes e do escritório ao máximo.
 
-- v2. Interface de Usuário (UI) + análise inicial de dados inputados: Interface mobile para input de dados, conversão de documentos e análise inicial de conteúdo para geração de templates.
+- v2. Interface de Usuário (UI) + análise inicial de dados inputados: Interface mobile para input de dados, conversão de documentos e acompanhamento visual do processo por parte dos clientes.
 
-- v3. Refinamento de dados (Machine Learning): Implementação de modelos de AI e machine learning para treinamento com dados próprios, passados e correntes, resultando em geração de templates e insights especializados.
+- v3. Refinamento de dados (Machine Learning): Implementação de modelos de aprendizado supervisionado, mineração de dados e análise preditiva com dados próprios, passados e correntes, resultando em geração de templates e insights especializados.
 
 
+## Resultados Esperados
 
+- v1. Automação (APIs): Quantidade. Redução do tempo destinado a cada processo relacionado ao direito imobiliário pela metade, garantindo eficiência única ao cliente final e abrindo espaço para escalar o serviço mantendo o valor real.
+
+- v2. Interface de Usuário (UI) + análise inicial de dados inputados: Qualidade. Interação com cliente única na indústria, agregando valor ao serviço ao facilitar envio de documentos via celular e expor processo em andamento aos clientes de maneira visual. Possibilidade de ter o processo todo realizado de forma automática e somente um único input das partes envolvidas. Dessa forma o relacionamento com o cliente não envolveria aspectos do processo e seria focado na melhoria da qualidade de entrega do serviço e do valor percebido.
+
+- v3. Refinamento de dados (Machine Learning): Longo prazo. Estratégia e tomadas de decisão apoiadas por insights elaborados com dados próprios, reais ou simulados, e possibilidade de geração de pontos de vista até então não pensadas. Ação de resultado de longo prazo, interessante ao se considerar BaaS.
